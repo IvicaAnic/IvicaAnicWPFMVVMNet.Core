@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.net.core.5.0\\WpfNetCoreMvvm\\WpfNetCoreMvvm\\IvicaAnicWPFMVVMNet.Core.csproj": {}
+    "D:\\.net.core.5.0\\IvicaAnicWPFMVVMNet.Core\\WpfNetCoreMvvm\\IvicaAnicWPFMVVMNet.Core.csproj": {}
   },
   "projects": {
-    "D:\\.net.core.5.0\\WpfNetCoreMvvm\\WpfNetCoreMvvm\\IvicaAnicWPFMVVMNet.Core.csproj": {
+    "D:\\.net.core.5.0\\IvicaAnicWPFMVVMNet.Core\\WpfNetCoreMvvm\\IvicaAnicWPFMVVMNet.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.net.core.5.0\\WpfNetCoreMvvm\\WpfNetCoreMvvm\\IvicaAnicWPFMVVMNet.Core.csproj",
+        "projectUniqueName": "D:\\.net.core.5.0\\IvicaAnicWPFMVVMNet.Core\\WpfNetCoreMvvm\\IvicaAnicWPFMVVMNet.Core.csproj",
         "projectName": "IvicaAnicWPFMVVMNet.Core",
-        "projectPath": "D:\\.net.core.5.0\\WpfNetCoreMvvm\\WpfNetCoreMvvm\\IvicaAnicWPFMVVMNet.Core.csproj",
+        "projectPath": "D:\\.net.core.5.0\\IvicaAnicWPFMVVMNet.Core\\WpfNetCoreMvvm\\IvicaAnicWPFMVVMNet.Core.csproj",
         "packagesPath": "C:\\Users\\delfa\\.nuget\\packages\\",
-        "outputPath": "D:\\.net.core.5.0\\WpfNetCoreMvvm\\WpfNetCoreMvvm\\obj\\",
+        "outputPath": "D:\\.net.core.5.0\\IvicaAnicWPFMVVMNet.Core\\WpfNetCoreMvvm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

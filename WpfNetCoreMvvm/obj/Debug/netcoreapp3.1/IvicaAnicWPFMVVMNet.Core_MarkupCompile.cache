@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-D:\.net.core.5.0\WpfNetCoreMvvm\WpfNetCoreMvvm\obj\Debug\netcoreapp3.1\
+D:\.net.core.5.0\IvicaAnicWPFMVVMNet.Core\WpfNetCoreMvvm\obj\Debug\netcoreapp3.1\
 IvicaAnicWPFMVVMNet.Core
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-D:\.net.core.5.0\WpfNetCoreMvvm\WpfNetCoreMvvm\App.xaml
+D:\.net.core.5.0\IvicaAnicWPFMVVMNet.Core\WpfNetCoreMvvm\App.xaml
 1-1644662438
-11413424753
-761874036
+2-1716545624
+81877968920
 2181832272370
 Views\MainWindow.xaml;
 

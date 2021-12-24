@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GO+zgmFVKfMmxzLV1Y1hZtMvQL9cLqVpvwomt5O6OwtLJl7HXkG1KqZEjLtZbcWakZzPAaQ4s6DelCy6mCDChg==",
+  "dgSpecHash": "BG9v0gfB0Rh8j0ZkSZqNFs+kYFLewdBt403jvB9Ouf2GamZyfiSdEJEjBTxVxJOA5EInHFLdsatdPEVkX5o8sw==",
   "success": true,
-  "projectFilePath": "D:\\.net.core.5.0\\WpfNetCoreMvvm\\WpfNetCoreMvvm\\IvicaAnicWPFMVVMNet.Core.csproj",
+  "projectFilePath": "D:\\.net.core.5.0\\IvicaAnicWPFMVVMNet.Core\\WpfNetCoreMvvm\\IvicaAnicWPFMVVMNet.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\delfa\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.0\\microsoft.extensions.configuration.3.1.0.nupkg.sha512",
     "C:\\Users\\delfa\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.0\\microsoft.extensions.configuration.abstractions.3.1.0.nupkg.sha512",
